@@ -1,4 +1,4 @@
-# Telecome-Customers-Analysis in California,USA using Tableau
+# Telecom-Customers-Analysis in California,USA using Tableau
 
 This project analyzes customer churn data for a telecommunications company in California, covering 7,043 customers. Using Tableau, I created interactive dashboards and a compelling story to visualize key insights:
 
